@@ -1,0 +1,11 @@
+{
+  "slug": "soundbyte-sol",
+  "name": "Soundbyte SOL",
+  "kind": "art",
+  "description": "Measure and package tiny audio data URIs and waveform metadata for v1.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
