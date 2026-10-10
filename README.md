@@ -1,5 +1,10 @@
 # Soundbyte SOL
 
+<!-- three.ws:badges -->
+[![GitHub stars](https://img.shields.io/github/stars/nirholas/soundbyte-sol?style=flat&logo=github)](https://github.com/nirholas/soundbyte-sol/stargazers) [![Last commit](https://img.shields.io/github/last-commit/nirholas/soundbyte-sol?style=flat)](https://github.com/nirholas/soundbyte-sol/commits) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/nirholas/soundbyte-sol/pulls) [![AI agent friendly](https://img.shields.io/badge/AI%20agents-AGENTS.md%20%2B%20llms.txt-6d5dfc?style=flat)](https://github.com/nirholas/soundbyte-sol/blob/HEAD/AGENTS.md)
+<!-- /three.ws:badges -->
+
+
 Measure and package tiny audio data URIs and waveform metadata for v1.
 
 ## Why this exists
@@ -47,3 +52,26 @@ MIT
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nirholas/soundbyte-sol&type=Date)](https://www.star-history.com/#nirholas/soundbyte-sol&Date)
+
+<!-- three.ws:growth -->
+## Support the project
+
+If soundbyte-sol saves you time, **[star it on GitHub](https://github.com/nirholas/soundbyte-sol)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=soundbyte-sol%3A%20Measure%20and%20package%20tiny%20audio%20data%20URIs%20and%20waveform%20metadata%20for%20v1&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fsoundbyte-sol) · [Share on Bluesky](https://bsky.app/intent/compose?text=soundbyte-sol%3A%20Measure%20and%20package%20tiny%20audio%20data%20URIs%20and%20waveform%20metadata%20for%20v1%20https%3A%2F%2Fgithub.com%2Fnirholas%2Fsoundbyte-sol) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fsoundbyte-sol) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Fsoundbyte-sol&t=soundbyte-sol%3A%20Measure%20and%20package%20tiny%20audio%20data%20URIs%20and%20waveform%20metadata%20for%20v1) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fsoundbyte-sol&title=soundbyte-sol%3A%20Measure%20and%20package%20tiny%20audio%20data%20URIs%20and%20waveform%20metadata%20for%20v1)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/soundbyte-sol` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/soundbyte-sol/issues) or [start a discussion](https://github.com/nirholas/soundbyte-sol/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/soundbyte-sol)](https://github.com/nirholas/soundbyte-sol/graphs/contributors)
+
+<!-- /three.ws:growth -->

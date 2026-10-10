@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "soundbyte-sol"
+abstract: "Measure and package tiny audio data URIs and waveform metadata for v1."
+repository-code: "https://github.com/nirholas/soundbyte-sol"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
