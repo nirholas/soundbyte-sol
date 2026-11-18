@@ -8,7 +8,7 @@ Measure and package tiny audio data URIs and waveform metadata for v1.
 
 - Source: https://github.com/nirholas/soundbyte-sol
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
